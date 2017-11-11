@@ -2,7 +2,7 @@
 This is a Login Registration     Spring boot  project using Spring Security.
 
 Database Name: springbootdb.
-You have to Insert a row  like this (INSERT into springbootdb.role value(2, 'SUPER_ADMIN'); )
+You have to Insert a row  like this (INSERT into springbootdb.role value(1, 'ADMIN'); )
 before registration. 
 
 
